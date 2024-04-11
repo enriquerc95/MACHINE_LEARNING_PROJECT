@@ -31,7 +31,7 @@ Folder structure:
 
 * Español:
 
-Bienvenido a mi proyecto de machine learning!
+¡Bienvenido a mi proyecto de machine learning!
 
 En este proyecto, voy a resolver un problema de la OMS (Organización mundial de la salud) creando un modelo para ayudar económicamente a los países que lo necesitan.
 
